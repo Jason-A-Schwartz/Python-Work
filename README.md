@@ -1,2 +1,2 @@
 # PythonWork
-Here are some of my favorite Python Programs that I have made
+Here are some of my favorite Python programs that I have made
